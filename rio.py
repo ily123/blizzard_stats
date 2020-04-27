@@ -1,4 +1,6 @@
 import pandas as pd
+import requests
+import time
 
 class RioScraper:
     '''
@@ -43,8 +45,8 @@ class RioScraper:
         self.seasons = seasons
         self.regions = regions
         
-        self.raw_data = []
-        
+        self.raw_data = {}
+
     def construct_urls(self):
         '''
         Generates url strings for all combinations of 
@@ -63,7 +65,7 @@ class RioScraper:
                 for season in self.seasons
                 for region in self.regions
                 for dungeon in self.dungeons
-                for page in range(4)] # only top 100 are returned, 20/page
+                for page in range(5)] # only top 100 are returned, 20/page
         return urls
                 
     def query_rio(self, sleep_time=1):
@@ -88,7 +90,7 @@ class RioScraper:
         self.urls = self.construct_urls()
         for url in self.urls:
             response = requests.get(url)
-            self.raw_data.append(response)
+            self.raw_data[url] = response
             time.sleep(sleep_time)
             
         return self.raw_data

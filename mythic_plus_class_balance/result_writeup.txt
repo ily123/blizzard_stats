@@ -1,0 +1,101 @@
+With Shadowlands on the horizon, I thought it would be fun to look back at how M+ meta evolved through the years. So I made some pics that show patch-to-patch class representations, and wrote a couple of paragraphs to talk about each of them. See the link above for the pics, and the discussion below. Thanks!~
+
+
+
+Data - top 100 runs across every dungeon and every region, for every season
+
+The data come from raider.io, who allow you to access the top 100 runs for each dungeon, for every patch, in every region. I collected the top 100 runs for each dungeon for the 4 main patches of Legion (7.2, 7.2.5, 7.3, 7.3.2) and the 4 seasons of BFA across the main geographic regions (NA, EU, KR, and TW). After cleaning, the data came out to about 37,000 total keys, or ~4,600 keys per season. This data set is fairly large and representative of the global M+ meta.
+
+
+
+I used these data to show how representation of each class changed from patch to patch relative to its peer group. See the figures below:
+
+
+
+Tanks
+
+https://i.imgur.com/kIVGZS1
+
+The figure reflects a tank meta that is fairly well-understood. But to quickly go over each class:
+
+DKs dominated through all of Legion and Season 1 of BFA, and their representation topped out around 60% during their best seasons. Then they got nerfed into the ground and disappeared from the meta completely, and are currently sitting at 4%. DHs have had a few very strong seasons playing second fiddle to DKs during Legion (their best season was 27% in patch 7.3.2), but since then DHs have been mostly unimpressive. There has been a revival of DH tanks due to corruption in BFA S4, but even now they are only sitting at 13% representation. Warriors, after languishing for most of their history, scored the most unbalanced tank season on record during Season 2 of BFA when they accounted for 83% of all runs. To give some perspective on these numbers, there are 6 tank specs, and if all 6 were equally represented, each spec would account for just 16% of the meta.
+
+The warrior throne was shaken a bit during S3 of BFA when brewmasters scored their first-ever "sick" season with 55% of all runs having a brewmaster monk. Right now, the monks are sitting at a comfortable 16%, which is roughly what a "balanced" spec should be at. Aside from these two seasons, however, brewmasters have been historically under represented. Joining them on the bench are protection paladins and guardian druids. The best seasons for these two specs came in early Legion, when both specs were competitive (24% for druids in Legion S1, and 20% for paladins in S1 and S3), but since then these two specs have been moribund. In BFA paladins constituted ~5% of the meta, while druids just 1 to 3%.
+
+
+
+Healers
+
+https://i.imgur.com/f6v5zh0
+
+Healer story is fairly straight-forward as well. During Legion, the meta was dominated by a druid-paladin duopoly, with paladins having a significant edge in representation. Best season for paladins in Legion was 7.3.2 with 66% of all runs having a paladin healer, while druid hovered around the 35-40% mark.
+
+Druids continued to dominate in BFA becoming the de facto m+ healer. In S3 of BFA, they accounted for a mind-boggling 89% of all healers, thanks to their excellent toolkit for dealing with Beguiling. Paladins, meanwhile, completely dropped out of the meta in BFA S1 and S2 , and did not return to relevance until glimmer of light propped them up to 12% representation in Season 3. With late-expansion scaling and Beguiling out of the pictures, paladins are currently sitting at a very competitive 26% representation.
+
+There are 6 healer specs and so the "fair/balanced" baseline is around 16%.
+
+Going by the 16% metric, the remaining four healers have only had 2 competitive seasons between all of them combined. The two competitive seasons were MW monks and Disc priests, both during S1 of BFA, when they each made up 25% of all healers. But aside from this one season, Disc priests, Holy priests, MW monks, and Resto shamans have been perpetually stuck in the sub-10% or even sub-5% niche. Similar to guardian druids and paladin tanks, the best time to be a holy priest or a shaman healer was during early legion, before the meta set in.
+
+
+
+Melee vs Range shift
+
+https://i.imgur.com/pAzvaq4
+
+Before we talk about dps, I wanted to confirm if the common wisdom of "range dominated Legion, and melee dominated BFA" was true. It is true, and we can see the shift very clearly. In Season 4 of Legion we had 69% of all dps as range, while season 1 of BFA was 61% melee. There was a shift from a roughly 2:1 range-melee meta to a 1:2 range-melee meta.
+
+
+
+Melee DPS classes/specs
+
+https://i.imgur.com/Au6naSg
+
+Similar to other metas, season 1 of Legion (7.2) had a relatively diverse class representation, but it quickly converged to the best classes only. Historically, rogues and demon hunters did well every season. Some competition came from warriors during mid-Legion when warriors sported 26% representation during patch 7.2.5 and 7.3, and from monks in 7.3.2, when monks scaled out of control and accounted for 55% of all melee.
+
+Otherwise, DH and rogue have had a lock on meta, and in BFA they combined for 85-90% of all melee in a typical season. Everyone else has been riding the sub-10% train (11% being baseline for a "balanced" melee), even classes that have generally been competitive like Warrior (currently sitting at 7%, their best since Legion) and DKs (currently at 4%). Finally, the esoteric specs (feral, enh, survival, ret to an extent) are basically either not present at all in the top 100, or represented by just 1 or 2 players.
+
+
+
+Range DPS classes/specs
+
+https://i.imgur.com/KjuF6nh
+
+Range dps classes have been more balanced than the other roles. Four of the six range dps classes have had at least 1 exceptionally strong season, where their representation far exceeded the the 16% baseline (again, there are 6 total range classes/specs - and I am folding together specs of the same class - so baseline is 16%).
+
+Mages and hunters are currently dominating (combined 85% representation), but they have always been strong. Their weakest was at the height of warlock abuse in 7.3.2, and even then mages accounted for 17% of all range while hunters accounted for 12%. Warlocks, of course, were exceptionally strong in Legion and peaked in 7.3.2 with 39% of all range. Another range class that has seen good times is the Balance Druid. They had good representation throughout Legion and early BFA, peaking at 28% in BFA Season 1. Though, lately they have not been very competitive (currently sitting at 5% of all range).
+
+The two remaining range classes have never been very strong. Elemental shamans had 1 competitive season during BFA S2 with 17% of all range slots being shaman, but otherwise have been sub-10%. Shadow Priests have never had a competitive season, and their best-ever mark is 8% representation in BFA S2 and BFA S3.
+
+
+
+Average historical ranking of all classes/specs
+
+https://i.imgur.com/aPbbEjp
+
+Through the text I've been using the words 'overrepresented' and 'underrepresented' a lot. We can actually quantify the extent of over/under representation. As an example, let's take resto druids again. In an ideally-balanced world, 1 in 6 of all healer spots (16.6%) would be filled by druids. However, the data show that cumulatively over the 8 seasons druids filled 50% of all available healer slots. Divide 50% by the baseline of 16.6% and you find that druids are historically over-represented by a factor of ~3. That is, for every druid you would expect to see in the meta, you actually saw 3.
+
+I calculated representation scores like this, for every spec/class within a role (tanks vs tanks, melee vs melee, etc), and averaged the scores over the 8 seasons. The scores are shown in the link above.
+
+The data essentially confirm the order of bottom feeders (survival hunters, feral druids, shadow priests, etc) to classes that have had some success (dps warrior, brewmaster monk) to classes that have had dominant stretches (holy paladin) to, finally, the 3 classes that have always been good (rogue, dh, resto druid).
+
+
+
+Some conclusions/observations:
+
+1. If you want to stay relevant, historically, your chances are better if you roll a rogue, a resto druid, or a demon hunter. Statistically, these 3 classes have never had a bad season, and their streak may continue unless major reworks come in Shadowlands. Likewise, you want to stay away from esoteric classes like survival or feral or anything with a low score (<0.5) on the chart above. These classes have never been strong, and perhaps there is a systemic reason why. It may be that their class mechanics are poorly suited to m+ (for example, a resto shaman has no tank CDs), or it may be because they are perpetually outclassed by top-line competition (ferals are OK, but why bring them over a rogue).
+
+
+
+2. Long-term, no class is safe from dropping out. Meta game changes are basically impossible to predict long-term. A class can go from 60% representation to 2% in single patch like BDKs did. Rolling rdruid/rogue/dh may offer some insurance, but really nobody is safe in the long run.
+
+
+
+3. Don't wait for Blizzard to fix your class, because they won't. There are just 2 examples of a class rising from bottom-feeder status to dominance. They are the Legion WW monk, and the BFA protection warrior. And in both cases it was not something Blizzard did intentionally vis-a-vis mythic+ balance, it was an unintended result of scaling or raid buffs.
+
+
+
+4. Meta is largely divorced from the underlying player population. If a class is strong in m+, it will show up on the charts, regardless of how few people normally play it. Best example of this is, again, the WW monks. They are one of the least played melee, but when they out-scaled every other melee in late Legion, their representation exploded from 2% to 55%. I am making this somewhat obvious point for the benefit of players who think that their class doesn't show up in the meta, because it has a very low underlying population. Nope, it doesn't show up, because it's not competitive.
+
+
+
+That's about it. Thanks for reading!
